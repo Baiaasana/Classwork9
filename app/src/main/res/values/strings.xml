@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Classwork9(late)</string>
+    <string name="_0">0</string>
+    <string name="reset">reset</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="security_screen">Security screen</string>
+    <string name="touch">touch</string>
+</resources>
